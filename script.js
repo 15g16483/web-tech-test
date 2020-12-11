@@ -3,7 +3,7 @@ let result = document.getElementById('result')
 //create a question and answer
 let binaryArray = [];
 
-for(let i = 0; i < 4; i++){
+for(let i = 0; i < 8; i++){
   let digit = Math.floor(Math.random()*2);
   binaryArray.push(digit);
 };
