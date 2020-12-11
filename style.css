@@ -12,5 +12,6 @@ button {
 }
 #secretLink {
   position: relative;
-  bottom: 200px;
+  top: 600px;
+  color: darkorchid;
 }
