@@ -13,5 +13,11 @@ button {
 #secretLink {
   position: relative;
   top: 600px;
+  left: 500px;
   color: darkorchid;
+}
+#result {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 400px;
+  color: orangered;
 }
